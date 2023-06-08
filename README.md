@@ -1,5 +1,5 @@
 # Dutch version  ![Dutch flag](images/nederlands.png) 
-Scroll down for an English version below. ![English flag](images/engels.png)
+Scroll down or use this [link](https://github.com/ZEnMo/Digital-twin-Drechtsteden#english-version-) for an English version below. ![English flag](images/engels.png)
 
 
 ## Zenmo ZERO - Digital twin Drechtsteden
