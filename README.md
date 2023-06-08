@@ -1,9 +1,9 @@
 # Dutch version  ![Dutch flag](images/nederlands.png) 
-Scroll down or [click this link](https://github.com/ZEnMo/Brabant-buurt-serious-game/blob/main/README.md#english-version-) for an English version. ![English flag](images/engels.png)
+Scroll down or [click this link](https://github.com/ZEnMo/Digital-twin-Drechtstedenblob/main/README.md#english-version-) for an English version. ![English flag](images/engels.png)
 
 
-## Zenmo ZERO - Digital twin energy system builder
-Dit is een template model om zelf een digital twin van je eigen energie systeem te bouwen. Vanuit deze template kan je met minimale aanpassingen en het downloaden van gebiedsdata vanuit BAG, EP-online, en de liggingsgegevens van de netbeheerders zelf je eigen gebied nabouwen. 
+## Zenmo ZERO - Digital twin Drechtsteden
+Dit is een digital twin van het energiesysteem in de regio Drechtsteden. Deze digital twin kan worden gebruikt om toekomst scenarios in de energie transitie te ontdekken en berekenen.
 
 Zou je zo'n model graag voor jouw eigen buurt, gemeente, provincie, of energiecoöperatie  willen hebben, neem dan contact op en mail naar [naud@zenmo.com](mailto:naud@zenmo.com).
 
@@ -35,10 +35,10 @@ Dit model is ontwikkeld door Naud Loomans als promovendus aan de Technische Univ
 </br>
 
 # English version ![English flag](images/engels.png)
-Scroll down or [click this link](https://github.com/ZEnMo/Brabant-buurt-serious-game/blob/main/README.md#dutch-version--) for a Dutch version. ![Dutch flag](images/nederlands.png) 
+Scroll down or [click this link](https://github.com/ZEnMo/Digital-twin-Drechtsteden/blob/main/README.md#dutch-version--) for a Dutch version. ![Dutch flag](images/nederlands.png) 
 
-## Zenmo ZERO - Digital twin energy system builder
-This is a template or default model to create a dgital twin of your area's energy system. Based on this template you can build your own digital twin by extracting the required data from BAG, EP-online and grid data from the DSO's.
+## Zenmo ZERO - Digital twin Drechtsteden
+This is a dgital twin of the energy system in the region Drechtsteden in The Netherlands. This digital twin can be used to explore and quantify different scenarios in the energy transition in this region.
 
 Would you like to work with your own neighborhood, muncipality, province or energy cooperation. Get into contact to discuss the possibilities by mailing to [naud@zenmo.com](mailto:naud@zenmo.com).
 
