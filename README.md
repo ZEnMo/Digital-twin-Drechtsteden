@@ -1,5 +1,5 @@
 # Dutch version  ![Dutch flag](images/nederlands.png) 
-Scroll down or [click this link](https://github.com/ZEnMo/Digital-twin-Drechtstedenblob/main/README.md#english-version-) for an English version. ![English flag](images/engels.png)
+Scroll down for an English version below. ![English flag](images/engels.png)
 
 
 ## Zenmo ZERO - Digital twin Drechtsteden
@@ -35,7 +35,7 @@ Dit model is ontwikkeld door Naud Loomans als promovendus aan de Technische Univ
 </br>
 
 # English version ![English flag](images/engels.png)
-Scroll down or [click this link](https://github.com/ZEnMo/Digital-twin-Drechtsteden/blob/main/README.md#dutch-version--) for a Dutch version. ![Dutch flag](images/nederlands.png) 
+Scroll down up for a Dutch version above. ![Dutch flag](images/nederlands.png) 
 
 ## Zenmo ZERO - Digital twin Drechtsteden
 This is a dgital twin of the energy system in the region Drechtsteden in The Netherlands. This digital twin can be used to explore and quantify different scenarios in the energy transition in this region.
